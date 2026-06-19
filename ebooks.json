@@ -1,0 +1,37 @@
+[
+  {
+    "title": "1.06 jQuery Intro",
+    "file": "1.06-jQuery-Intro.pdf",
+    "description": "Intro to jQuery basics"
+  },
+  {
+    "title": "Introduction to MySQL",
+    "file": "Introduction to MySQL.pdf",
+    "description": "MySQL introductory notes"
+  },
+  {
+    "title": "JavaScript 1",
+    "file": "javascript1.pdf",
+    "description": "JavaScript fundamentals"
+  },
+  {
+    "title": "Lecture 1 - Overview of WAP",
+    "file": "Lecture 1-Overview of WAP.pdf",
+    "description": "Overview of Wireless Application Protocol (WAP)"
+  },
+  {
+    "title": "REAL IFT 302 Notes",
+    "file": "REAL IFT 302 Notes.pdf",
+    "description": "Course notes for IFT 302"
+  },
+  {
+    "title": "Web Development Training Notes",
+    "file": "Web Development Training Notes_ Introduction to Web Development - DEV Community.pdf",
+    "description": "Web development training overview"
+  },
+  {
+    "title": "XML Basics",
+    "file": "XML Basics.pdf",
+    "description": "XML fundamentals and examples"
+  }
+]

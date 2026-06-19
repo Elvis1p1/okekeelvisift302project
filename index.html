@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>IFT 302 - eBook Library</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>IFT 302 — eBook Library</h1>
+    <input id="search" type="search" placeholder="Search by title or filename..." />
+  </header>
+  <main>
+    <div id="grid" class="grid"></div>
+  </main>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="closeBtn" class="close">×</button>
+      <iframe id="pdfFrame" src="" frameborder="0"></iframe>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
