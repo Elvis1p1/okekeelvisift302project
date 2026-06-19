@@ -1,0 +1,12 @@
+{
+  "name": "ift302-ebook-library",
+  "version": "1.0.0",
+  "description": "Static ebook library for IFT 302 PDFs",
+  "main": "serve-local.js",
+  "scripts": {
+    "start": "node serve-local.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
